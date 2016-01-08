@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="JavaSE-1.7">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="speccheck_2_hw1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/homework1/speccheck_2_hw1.jar!/"/>
+	</lib>
+</component>
